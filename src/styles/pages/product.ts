@@ -11,7 +11,7 @@ export const ProductContainer = styled('main', {
 
 })
 
-export const ImageContainer = styled('div', {
+export const ImageContainer = styled('a', {
   width: '100%',
   maxWidth: 576,
   height: 656,
